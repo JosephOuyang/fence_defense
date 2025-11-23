@@ -74,4 +74,14 @@ Turrets and drones automatically attack zombies.
 Healing stations restore HP to nearby defenses.
 The fence and all structures have HP and can be destroyed.
 
+Important Commands (Joseph's Computer)
+
+cd "/Users/josephouyang/Desktop/15-112 (F25)/hack112-group-16"
+python3.13 cv_sender.py
+
+cd "/Users/josephouyang/Desktop/15-112 (F25)/hack112-group-16"
+python3.13 zombie_defense.py
+
+
+
 
