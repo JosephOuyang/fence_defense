@@ -1,0 +1,6 @@
+# This file tells git to ignore certain files and directories
+# No need to modify this file 
+__pycache__/
+cmu_graphics*/
+opencv2.framework/
+opencv2.framework/
