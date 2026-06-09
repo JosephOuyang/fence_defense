@@ -157,4 +157,4 @@ fence-defense/
 
 ---
 
-*Built at Hack112, Carnegie Mellon University.
+*Built at Hack112, Carnegie Mellon University.*
